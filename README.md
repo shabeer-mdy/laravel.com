@@ -1,4 +1,4 @@
-## Laravel Website
+## Laravel Website    
 
 This is the source of the official [Laravel website](https://laravel.com).
 
